@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 #https://realpython.com/python-sockets
 #https://github.com/realpython/materials/tree/master/python-sockets-tutorial
 # Chat server
