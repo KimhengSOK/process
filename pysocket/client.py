@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Chat client
 import socket
 import os
